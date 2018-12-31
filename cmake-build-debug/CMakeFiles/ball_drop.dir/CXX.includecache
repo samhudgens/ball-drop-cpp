@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sam/dev/cpp-learning/learn-cpp-book/ch2/ball-drop/ballphysics.cpp
+iostream
+-
+constants.h
+/Users/sam/dev/cpp-learning/learn-cpp-book/ch2/ball-drop/constants.h
+
+/Users/sam/dev/cpp-learning/learn-cpp-book/ch2/ball-drop/constants.h
+
